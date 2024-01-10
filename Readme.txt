@@ -1,2 +1,1 @@
-Thanks for downloading this template!
-
+This portfolio built using pure HTML,CSS and JAvascript
